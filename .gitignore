@@ -1,11 +1,15 @@
-# Ignore PDF research papers (too large for git)
-*.pdf
-
 # MATLAB autosave files
 *.asv
 *.m~
 
-# MATLAB temporary files
+# MATLAB temporary and output files
 *.mat
 slprj/
+
+# Generated figures
+*.png
+*.fig
+
+# PDF research papers (too large for git, keep locally)
+*.pdf
 
