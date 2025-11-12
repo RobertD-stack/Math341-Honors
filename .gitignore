@@ -1,0 +1,11 @@
+# Ignore PDF research papers (too large for git)
+*.pdf
+
+# MATLAB autosave files
+*.asv
+*.m~
+
+# MATLAB temporary files
+*.mat
+slprj/
+
